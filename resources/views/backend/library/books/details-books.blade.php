@@ -1,0 +1,1 @@
+details-books.blade.php
